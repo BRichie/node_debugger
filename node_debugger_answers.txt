@@ -1,0 +1,18 @@
+1. How do you access the DevTools for Node in Chrome?
+	
+	ANSWER: 1. Open Chrome web browser
+		2. type: chrome://inspect in the URL search bar  
+		3. Choose the "Open dedicated DevTools for Node" option
+
+2. What are the main differences between the regular Chrome DevTools and the DevTools for Node?
+
+	ANSWER: the main difference is that Node DevTools connects directly to the Node and that it is essential for backend programming, chrome devtools is for frontend.
+
+
+3. Using the built-in Node debug tool, what command do you use to continue the execution of your code.
+
+	ANSWER: 'cont', 'c'
+
+4. Which statement do you put in your code to set a breakpoint?
+
+	ANSWER: 'setBreakpoint()', 'sb()' 
